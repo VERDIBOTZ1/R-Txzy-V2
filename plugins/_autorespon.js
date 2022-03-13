@@ -32,7 +32,7 @@ handler.all = async function (m, { isBlocked }) {
 ╠➥ *1 Bulan* :      *Rp 10000*
 ╠➥ *Permanen* : *Rp 15000*
 ╠➥ *Premium* :   *Rp 15000*
-╠➥ *Sc Bot* :        *Masih Beta*
+╠➥ *Sc Bot* :        *Masih BETA V2*
 ║
 ╠═〘 PEMBAYARAN 〙 ═
 ╠➥ Dana, Dan Pulsa
@@ -40,9 +40,9 @@ handler.all = async function (m, { isBlocked }) {
 ╠═ Tertarik Untuk Beli Bot Ini?
 ╠➥Ketuk Tombol Di Bawah Ya
 ║
-╠═ ©2021 Rpg wabot-aq
+╠═ ©2022 Rpg wabot-aq SC CODE V2
 ╠═ Script original by Nurutomo
-╠═〘 R-TXZY〙 ═`.trim(), '© R-Txzy', 'Gopay', '#viadana', 'Pulsa', '#viapulsa', m)
+╠═〘BOT Tjy〙 ═`.trim(), '© bot tzy', 'Gopay', '#viadana', 'Pulsa', '#viapulsa', m)
 }
 
     // salam
