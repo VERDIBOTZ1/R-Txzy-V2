@@ -18,10 +18,10 @@ let info = `╠═〘 PEMBAYARAN 〙 ═
 ║   *GOOGLE*
 ╠➥ *DAN 200 LEBIH*
 ║   *FITUR LAINNYA*
-║ 
-╠═ ©2021 Rpg wabot-aq
+║rpg bot
+╠═ ©2022 @6285706735450
 ╠═ Scrip original by Nurutomo
-╠═〘 R-Txzy 〙 ═
+╠═〘 BOT tzy 〙 ═
 `.trim()
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*Sewa Bot*', 'status@broadcast') 
