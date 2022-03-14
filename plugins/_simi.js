@@ -1,23 +1,15 @@
-//Fix simi
-//BOTCAHX
 
 let fetch = require('node-fetch')
-
-let handler = m => m
-
-handler.before = async (m) => {
-    let chat = db.data.chats[m.chat]
-    if (chat.simi && !chat.isBanned) {
-        if (/^.*false|disable|(turn)?off|0/i.test(m.text)) return
-        if (!m.text) return
-        let res = await fetch(API('https://api.simsimi.net', '/v2/', { text: encodeURIComponent(m.text), lc: 'id' }))
-        if (!res.ok) return m.reply(eror)
-        let json = await res.json()
-        if (json.success == "Aku tidak mengerti apa yang kamu katakan.Tolong ajari aku.") return m.reply('simi nya gk tau bang')
-        m.reply(json.success)
-        return !0
-    }
-    return !0
+let handler = async (m, { text }) => {
+  if (!text) throw 'Textnya apa?'
+  let res = await fetch(global.API('bg', '/simi', { pesan: text }))
+  let json = await res.json()
+  if (json.status !== true) throw json
+  m.reply(json.result.jawab)
 }
+handler.help = ['simi', 'simsimi', 'simih'].map(v => v + ' [teks]')
+handler.tags = ['fun']
+handler.command = /^((sim)?simi|simih)$/i
 
 module.exports = handler
+
