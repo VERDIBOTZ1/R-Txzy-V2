@@ -11,30 +11,30 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 
 ┏━━⬣ 𝙈𝘼𝙄𝙉
 ┃
-┃⬡ /afk [alasan]
-┃⬡ /info
-┃⬡ /alive
-┃⬡ /jadian (Limit)
-┃⬡ /menu
-┃⬡ /help
-┃⬡ /?
-┃⬡ /runtime
-┃⬡ /status
-┃⬡ /statusbot
+┃⬡ /afk [alasan bisa turu]🐋
+┃⬡ /info🐋
+┃⬡ /alive🐋
+┃⬡ /jadian (Limit)🐋
+┃⬡ /menu🐋
+┃⬡ /help🐋
+┃⬡ /?🐋
+┃⬡ /runtime🐋
+┃⬡ /status🐋
+┃⬡ /statusbot🐋
 ┗⬣
 
 ┏━━⬣ 𝙎𝙏𝙍𝙀𝙎 𝙈𝙀𝙉𝙐
 ┃
-┃⬡ /wangy
-┃⬡ /nenen
-┃⬡ /simp
-┃⬡ /sherk
+┃⬡ /wangy🗿
+┃⬡ /nenen🗿
+┃⬡ /simp🗿
+┃⬡ /sherk🗿
 ┗⬣
 
 ┏━━⬣ 𝘼𝙋𝙄 𝙈𝙀𝙉𝙐
 ┃
-┃⬡ /generatekey
-┃⬡ /cekey
+┃⬡ /generatekey🗿
+┃⬡ /cekey🗿
 ┗⬣
 
 ┏━━⬣ 𝘼𝙉𝙄𝙈𝙀 𝙈𝙀𝙉𝙐
@@ -66,7 +66,7 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 ┃⬡ /asahotak
 ┃⬡ /caklontong
 ┃⬡ /family100
-┃⬡ /judi <jumlah>
+┃⬡ /judi <jumlah>🗿
 ┃⬡ /math <mode>
 ┃⬡ /siapakahaku
 ┃⬡ /slot
@@ -81,14 +81,14 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 
 ┏━━⬣ 𝙀𝙓𝙋 & 𝙇𝙄𝙈𝙄𝙏
 ┃
-┃⬡ /dompet
-┃⬡ /bank
+┃⬡ /dompet💵
+┃⬡ /bank💸
 ┃⬡ /buy<jumlah limit>
 ┃⬡ /buy <jumlah limit>
-┃⬡ /buyall
-┃⬡ /daily
-┃⬡ /claim
-┃⬡ /kerja (Limit)
+┃⬡ /buyall👜
+┃⬡ /daily💳
+┃⬡ /claim💳
+┃⬡ /kerja (Limit)💲
 ┃⬡ /leaderboard [jumlah user]
 ┃⬡ /lb [jumlah user]
 ┃⬡ /levelup
@@ -205,55 +205,53 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 
 ┏━━⬣ 𝙂𝙍𝙊𝙐𝙋
 ┃
-┃⬡ /cekbot
-┃⬡ /enable <option>
-┃⬡ /disable <option>
-┃⬡ /infogrup
-┃⬡ /setgc open
-┃⬡ /setgc buka
-┃⬡ /setgc tutup
-┃⬡ /setgc close
-┃⬡ /setgc subject
-┃⬡ /setgc desc
-┃⬡ /setgc revoke
-┃⬡ /setgc reset
-┃⬡ /setgc profile
-┃⬡ /setgc picture
-┃⬡ /linkgroup
-┃⬡ /here
-┃⬡ /listonline
-┃⬡ /opengumuman [teks]
-┃⬡ /oannounce [teks]
-┃⬡ /ohidetag [teks]
-┃⬡ /pengumuman [teks]
-┃⬡ /announce [teks]
-┃⬡ /hidetag [teks]
-┃⬡ /resend (Limit)
-┃⬡ /revoke
-┃⬡ /setbye <teks>
-┃⬡ /setwelcome <teks>
-┃⬡ /simulate <event> [@mention]
-┃⬡ /totalpesan
+┃⬡ /cekbot🌀
+┃⬡ /enable <option>🌀
+┃⬡ /disable <option>🌀
+┃⬡ /infogrup🌀
+┃⬡ /setgc open🌀
+┃⬡ /setgc buka🌀
+┃⬡ /setgc tutup🌀
+┃⬡ /setgc close🌀
+┃⬡ /setgc subject🌀
+┃⬡ /setgc desc🌀
+┃⬡ /setgc revoke🌀
+┃⬡ /setgc reset🌀
+┃⬡ /setgc profile🌀
+┃⬡ /setgc picture🌀
+┃⬡ /linkgroup🌀
+┃⬡ /here🌀
+┃⬡ /listonline🌀
+┃⬡ /opengumuman [teks]🌀
+┃⬡ /oannounce [teks]🌀
+┃⬡ /ohidetag [teks]🌀
+┃⬡ /pengumuman [teks]🌀
+┃⬡ /announce [teks]🌀
+┃⬡ /hidetag [teks]🌀
+┃⬡ /resend (Limit)🌀
+┃⬡ /revoke🌀
+┃⬡ /setbye <teks>🌀
+┃⬡ /setwelcome <teks>🌀
+┃⬡ /simulate <event> [@mention]🌀
+┃⬡ /totalpesan🌀
 ┗⬣
 
 ┏━━⬣ 𝙋𝙍𝙀𝙈𝙄𝙐𝙈
 ┃
-┃⬡ /join <chat.whatsapp.com>
+┃⬡ /join <chat.whatsapp.com>🌀
 ┗⬣
 
 ┏━━⬣ 𝙉𝙎𝙁𝙒
 ┃
-┃⬡ /ahegao (Limit)
+┃⬡ /ahegao (Limit)🌀
 ┃⬡ /ass (Limit)
 ┃⬡ /boobs (Limit)
 ┃⬡ /ecchi (Limit)
 ┃⬡ /hentai (Limit)
 ┃⬡ /masturbation (Limit)
-┃⬡ /nekodl <url> (Limit)
-┃⬡ /nekolatest (Limit)
+🌀┃⬡ /nekolatest (Limit)
 ┃⬡ /nekopoilatest (Limit)
-┃⬡ /nhsearch <query> (Limit)
-┃⬡ /nhentaisearch <query> (Limit)
+┃⬡ /nhsearch <query> (Limit)       
 ┃⬡ /nh <code> (Limit)
 ┃⬡ /nhentai <code> (Limit)
 ┃⬡ /nsfwloli
@@ -552,10 +550,10 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 ┃⬡ /grouplist
 ┃⬡ /premium
 ┃⬡ /shop
-┃⬡ /bug <laporan>
-┃⬡ /report <laporan>
-┃⬡ /ping
-┃⬡ /speed
+┃⬡ /bug <laporan>😭
+┃⬡ /report <laporan>😹🙏
+┃⬡ /ping🐥
+┃⬡ /speed bot🐥
 ┗⬣
 
 ┏━━⬣ 𝙉𝙊 𝘾𝘼𝙏𝙀𝙂𝙊𝙍𝙔
